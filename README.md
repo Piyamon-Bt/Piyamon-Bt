@@ -1,6 +1,6 @@
 [![temp-Imagejg-Aevp.avif](https://i.postimg.cc/0jLjTRNv/temp-Imagejg-Aevp.avif)](https://postimg.cc/SYfm9P81)
 ## Hi there 👋
-# My name is Piyamon Chuenpaew
+# My name is Piyamon
 <!--
 **Piyamon-Bt/Piyamon-Bt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
