@@ -1,5 +1,4 @@
-[![temp-Image6-G4r-Nt.avif](https://i.postimg.cc/765TBwHX/temp-Image6-G4r-Nt.avif)](https://postimg.cc/tZHTJ0VV)
-
+[![temp-Image-Kyqw-KS.avif](https://i.postimg.cc/BZ2rHfTG/temp-Image-Kyqw-KS.avif)](https://postimg.cc/Lh6QF7Qy)
 ## Hi there 👋
 # My name is Piyamon Chuenpaew
 <!--
