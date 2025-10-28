@@ -42,7 +42,7 @@ Currently exploring **Supabase** and **Python-based AI frameworks** for real-wor
   <a href="https://github.com/Piyamon-Bt">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="[https://gitlab.com/Piyamon-Bt](https://gitlab.com/-/user_settings/profile)">
+  <a href="https://gitlab.com/Piyamon-Bt">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
 
