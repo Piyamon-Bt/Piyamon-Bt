@@ -1,7 +1,6 @@
 [![temp-Imagejg-Aevp.avif](https://i.postimg.cc/0jLjTRNv/temp-Imagejg-Aevp.avif)](https://postimg.cc/SYfm9P81)
-## Hi there 👋
-# My name is Piyamon
-<!--
+# 👋 Hi, I'm Piyamon!
+I'm a 3rd-year Computer Engineering student passionate about AI, Web Development, and Open Source.<!--
 **Piyamon-Bt/Piyamon-Bt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
