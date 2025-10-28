@@ -4,14 +4,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 I’m a Computer Engineering student passionate about **AI**, **Web Development**, and **Cloud Integration**.  
 I enjoy building practical projects that combine **clean code**, **data-driven logic**, and **modern UI**.  
 Currently exploring **Supabase** and **Python-based AI frameworks** for real-world use cases.
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
@@ -21,17 +21,17 @@ Currently exploring **Supabase** and **Python-based AI frameworks** for real-wor
 
 ---
 
-## 🚀 Projects Showcase
-- 🧠 [AI Sign Language Detection](https://github.com/Piyamon-Bt/asl-detection)  
+## Projects Showcase
+- [AI Sign Language Detection](https://github.com/Piyamon-Bt/asl-detection)  
   Real-time ASL detection using MediaPipe and TensorFlow.
-- ☁️ [Wi-Fi Security Analyzer](https://github.com/Piyamon-Bt/wifi-ai)  
+- [Wi-Fi Security Analyzer](https://github.com/Piyamon-Bt/wifi-ai)  
   AI-powered mobile app for analyzing Wi-Fi security levels.
-- 🧩 [RuleBase Pharmacogenomics System](https://github.com/Piyamon-Bt/pharmacogenomics)  
+- [RuleBase Pharmacogenomics System](https://github.com/Piyamon-Bt/pharmacogenomics)  
   Full-stack web app using Supabase and React for genetic rule analysis.
 
 ---
 
-## 🌐 Contact / Social Links
+## Contact / Social Links
 <p align="left">
   <a href="mailto:piyamon.chuenpaew@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
