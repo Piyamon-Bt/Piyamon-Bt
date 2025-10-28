@@ -1,9 +1,6 @@
 [![temp-Imagejg-Aevp.avif](https://i.postimg.cc/0jLjTRNv/temp-Imagejg-Aevp.avif)](https://postimg.cc/SYfm9P81)
 # 👋 Hi, I'm Piyamon!
-I'm a 3rd-year Computer Engineering student passionate about AI, Web Development, and Open Source.<!--
-**Piyamon-Bt/Piyamon-Bt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a 3rd-year Computer Engineering student passionate about AI, Web Development, and Open Source.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  # 🌐 Connect with Me
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/piyamon](https://www.linkedin.com/in/piyamon-chuenpaew-1b95a9373/))
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:piyamon.chuenpaew@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green)](https://piyamon.dev)
