@@ -19,15 +19,6 @@ Currently exploring **Supabase** and **Python-based AI frameworks** for real-wor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
 </p>
 
----
-
-## Projects Showcase
-- [AI Sign Language Detection](https://github.com/Piyamon-Bt/asl-detection)  
-  Real-time ASL detection using MediaPipe and TensorFlow.
-- [Wi-Fi Security Analyzer](https://github.com/Piyamon-Bt/wifi-ai)  
-  AI-powered mobile app for analyzing Wi-Fi security levels.
-- [RuleBase Pharmacogenomics System](https://github.com/Piyamon-Bt/pharmacogenomics)  
-  Full-stack web app using Supabase and React for genetic rule analysis.
 
 ---
 
