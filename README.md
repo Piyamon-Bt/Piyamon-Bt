@@ -23,7 +23,7 @@ Currently exploring **Supabase** and **Python-based AI frameworks** for real-wor
 ---
 
 ## Contact / Social Links
-<p align="left">
+<!-- <p align="left">
   <a href="mailto:piyamon.chuenpaew@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -37,4 +37,4 @@ Currently exploring **Supabase** and **Python-based AI frameworks** for real-wor
     <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
 
-</p>
+</p> -->
