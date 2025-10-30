@@ -20,9 +20,8 @@ Currently exploring **Supabase** and **Python-based AI frameworks** for real-wor
 </p>
 
 
----
 
-## Contact / Social Links
+<!--## Contact / Social Links>
 <!-- <p align="left">
   <a href="mailto:piyamon.chuenpaew@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
