@@ -27,13 +27,13 @@ Currently exploring **Supabase** and **Python-based AI frameworks** for real-wor
   <a href="mailto:piyamon.chuenpaew@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="www.linkedin.com/in/piyamon-chuenpaew">
+  <a href="[https://www.linkedin.com/in/piyamon-chuenpaew/](https://www.linkedin.com/in/piyamon-chuenpaew/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Piyamon-Bt">
+  <a href="[https://github.com/Piyamon-Bt](https://github.com/Piyamon-Bt)">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://gitlab.com/Piyamon-Bt">
+  <a href="[https://gitlab.com/Piyamon-Bt](https://gitlab.com/piyamon.chuenpaew)">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white" alt="GitLab" />
   </a>
 
